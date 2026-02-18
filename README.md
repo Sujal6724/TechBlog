@@ -124,7 +124,14 @@ Then login via `/admin`.
 
 ## 📸 Screenshots
 
-_Add screenshots here for better presentation._
+_<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c9cb60b-7e0c-4570-92e1-6c2a2f378b41" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/91532620-2e3a-493b-a276-8144bb5e3731" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82ed5322-eb42-4377-8cfc-6ecbeb0b2680" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ea4706ea-f2a5-4781-80d2-a882001999e5" />
+
+
+
+
 
 ---
 
