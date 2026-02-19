@@ -55,9 +55,6 @@ TechBlog/
 1. Clone the repository:
 
 
-git clone https://github.com/yourusername/django-tech-blog.git
-
-
 2. Navigate into project folder:
 
 
